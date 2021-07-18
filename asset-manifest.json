@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/bitfinex-app/static/css/main.c1309d8a.chunk.css",
+    "main.js": "/bitfinex-app/static/js/main.9035ad21.chunk.js",
+    "main.js.map": "/bitfinex-app/static/js/main.9035ad21.chunk.js.map",
+    "runtime-main.js": "/bitfinex-app/static/js/runtime-main.5479a96f.js",
+    "runtime-main.js.map": "/bitfinex-app/static/js/runtime-main.5479a96f.js.map",
+    "static/js/2.9d728367.chunk.js": "/bitfinex-app/static/js/2.9d728367.chunk.js",
+    "static/js/2.9d728367.chunk.js.map": "/bitfinex-app/static/js/2.9d728367.chunk.js.map",
+    "static/js/3.0a98b9c8.chunk.js": "/bitfinex-app/static/js/3.0a98b9c8.chunk.js",
+    "static/js/3.0a98b9c8.chunk.js.map": "/bitfinex-app/static/js/3.0a98b9c8.chunk.js.map",
+    "index.html": "/bitfinex-app/index.html",
+    "static/css/main.c1309d8a.chunk.css.map": "/bitfinex-app/static/css/main.c1309d8a.chunk.css.map",
+    "static/js/2.9d728367.chunk.js.LICENSE.txt": "/bitfinex-app/static/js/2.9d728367.chunk.js.LICENSE.txt",
+    "static/media/Bit-Image.4f90721b.png": "/bitfinex-app/static/media/Bit-Image.4f90721b.png",
+    "static/media/logo.6ce24c58.svg": "/bitfinex-app/static/media/logo.6ce24c58.svg",
+    "static/media/menu.1d2d916f.svg": "/bitfinex-app/static/media/menu.1d2d916f.svg",
+    "static/media/x.2e5f2f25.svg": "/bitfinex-app/static/media/x.2e5f2f25.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5479a96f.js",
+    "static/js/2.9d728367.chunk.js",
+    "static/css/main.c1309d8a.chunk.css",
+    "static/js/main.9035ad21.chunk.js"
+  ]
+}
