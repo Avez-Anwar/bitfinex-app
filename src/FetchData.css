@@ -1,0 +1,69 @@
+.main__fetch {
+  color: white;
+  font-size: 15px;
+  height: 200px;
+  width: 300px;
+  padding: 30px;
+  overflow-y: scroll;
+  background-color: black;
+}
+
+.main__fetch__funding {
+  display: flex;
+  color: white;
+  text-align: left;
+  background-color: #000;
+  padding: 10px;
+  margin: 4px 49px 23px 0px;
+  cursor: pointer;
+}
+
+.main__funding__one {
+  display: flex;
+  justify-content: space-around;
+  color: #969b9e;
+  text-align: left;
+  background-color: #000;
+  padding: 0px;
+  margin: -4px 57px 0px -1px;
+  cursor: pointer;
+  line-height: 0.1;
+}
+
+.main__fetch__button {
+  display: flex;
+  justify-content: space-around;
+  width: 85%;
+}
+
+.fetch__button__one {
+  margin: 0 1px;
+  background-color: #01a781;
+  text-decoration: none;
+  color: white;
+  border: none;
+  text-align: center;
+  line-height: 30px;
+  width: 138px;
+  cursor: pointer;
+}
+
+.fetch__button__Two {
+  margin: 0 1px;
+  color: white;
+  border: none;
+  text-decoration: none;
+  background-color: #f05359;
+  text-align: center;
+  width: 138px;
+  line-height: 30px;
+  cursor: pointer;
+}
+
+.fetch__button__one :hover {
+  color: red;
+}
+
+.fetch__button__Two :hover {
+  color: white;
+}

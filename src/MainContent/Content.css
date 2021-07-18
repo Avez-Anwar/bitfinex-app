@@ -1,0 +1,10 @@
+.content__heading {
+  display: flex;
+  color: white;
+  justify-content: space-between !important;
+}
+
+.content__para {
+  display: flex;
+  margin-right: 10px;
+}

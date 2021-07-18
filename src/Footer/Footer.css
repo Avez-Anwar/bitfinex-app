@@ -1,0 +1,32 @@
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td,
+th {
+  text-align: left;
+  padding: 8px;
+}
+
+/* tr:nth-child(even) {
+} */
+
+.main__footer table tr th {
+  color: #fff;
+}
+
+.main__footer table tr td {
+  color: #969b9e;
+}
+
+.main__footer h2 {
+  text-align: left;
+  color: #fff;
+  margin-left: 10px;
+}
+
+.main__name {
+  color: #969b9e;
+}

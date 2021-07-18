@@ -1,0 +1,102 @@
+.main__div {
+  width: 400px;
+}
+
+.main__content {
+  color: #fff;
+  width: 340px;
+  background-color: #000;
+  padding: 10px;
+  margin: 12px 30px 20px 11px;
+}
+
+.main__tickers {
+  display: flex;
+  color: white;
+  text-align: left;
+  background-color: #000;
+  padding: 10px;
+  margin: -16px 30px 20px 11px;
+  cursor: pointer;
+}
+
+.main__tickers__one {
+  display: flex;
+  justify-content: space-around;
+  color: #969b9e;
+  text-align: left;
+  background-color: #000;
+  padding: 0px;
+  margin: -16px 30px 20px 11px;
+  cursor: pointer;
+  line-height: 0.1;
+}
+
+.main__tickers__one > p:hover {
+  color: white;
+  text-decoration: underline;
+}
+
+.tooltip {
+  position: relative;
+  display: inline-block;
+  border-bottom: 1px dotted black;
+}
+
+.tooltip .tooltiptext {
+  visibility: hidden;
+  width: 120px;
+  background-color: #555;
+  color: #fff;
+  text-align: center;
+  border-radius: 6px;
+  padding: 15px 0;
+  position: absolute;
+  z-index: 1;
+  bottom: 125%;
+  left: 50%;
+  margin-left: -60px;
+  opacity: 0;
+  transition: opacity 0.3s;
+}
+
+.tooltip .tooltiptext::after {
+  content: "";
+  position: absolute;
+  top: 100%;
+  left: 50%;
+  margin-left: -5px;
+  border-width: 5px;
+  border-style: solid;
+  border-color: #555 transparent transparent transparent;
+}
+
+.tooltip:hover .tooltiptext {
+  visibility: visible;
+  opacity: 1;
+}
+
+.main__search {
+  display: flex;
+  align-items: center;
+  color: #969b9e;
+  background-color: #2f3135;
+  padding: 3px;
+  margin: 16px 190px 10px 10px;
+  border-radius: 3px;
+}
+
+.main__search > input {
+  background: transparent;
+  outline-width: 0;
+  color: white;
+  border: none;
+}
+
+.main__search > select {
+  padding: 3px;
+  background-color: #2f3135;
+  color: white;
+  font-size: 11px;
+  margin-left: 10px;
+}
